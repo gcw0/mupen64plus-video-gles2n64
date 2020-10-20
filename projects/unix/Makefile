@@ -347,6 +347,7 @@ $(SRCDIR)/S2DEX2.cpp \
 $(SRCDIR)/S2DEX.cpp \
 $(SRCDIR)/ShaderCombiner.cpp \
 $(SRCDIR)/Textures.cpp \
+$(SRCDIR)/convert.cpp \
 $(SRCDIR)/VI.cpp 
 
 #$(SRCDIR)/3DMathNeon.cpp \
